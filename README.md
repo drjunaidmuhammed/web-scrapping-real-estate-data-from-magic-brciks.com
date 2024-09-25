@@ -33,5 +33,5 @@ For any questions or suggestions, please contact:
 
 Name: Dr.Muhammed Junaid
 Email: drjunaidmuhammed@gmail.com
-LinkedIn: WWW.LINKEDIN.COM/IN/DRJUNAIDMUHAMMED 
+LinkedIn:https://www.linkedin.com/in/drmuhammedjunaid 
 
